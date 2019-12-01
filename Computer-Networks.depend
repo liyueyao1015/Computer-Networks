@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575185449 source:c:\users\hp\desktop\computer-networks\datelink_datelink.cpp
+	"DateLink.h"
+
+1575129338 c:\users\hp\desktop\computer-networks\datelink.h
+	<cstdio>
+	<windows.h>
+
+1575186351 source:c:\users\hp\desktop\computer-networks\datelink_write.cpp
+	"DateLink.h"
+
+1575186053 source:c:\users\hp\desktop\computer-networks\main.cpp
+	<iostream>
+	"DateLink.h"
+	<windows.h>
+
+1575132789 source:c:\users\hp\desktop\computer-networks\datelink_read.cpp
+	"DateLink.h"
+
