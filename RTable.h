@@ -2,7 +2,7 @@
 using namespace std
 class RTable  
 {
-  char IP[i];
+  char IP[10];
   int length;
   RTable *next;
 } //边类  
